@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Matff4/android_device_samsung_xcover4lte" path="device/samsung/xcover4lte" remote="github" revision="lineage-18.1" />
+  <project name="MrBrause/android_kernel_samsung_xcover4lte" path="kernel/samsung/xcover4lte" remote="github" revision="lineage-18.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi_exynos7880" path="hardware/samsung_slsi/exynos7880" remote="github" revision="lineage-18.1" />
+</manifest>
