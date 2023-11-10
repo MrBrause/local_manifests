@@ -8,4 +8,5 @@
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="github" revision="lineage-18.1" />
   <project name="LineageOS/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="lineage-18.1" />
   <project name="retiredtab/android_hardware_samsung_slsi_exynos5433" path="hardware/samsung_slsi/exynos5433" remote="github" revision="lineage-18.1" />
+  <remove-project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
 </manifest>
